@@ -1,1 +1,1 @@
-#A clean and responsive sidebar menu built using HTML and CSS, featuring smooth transitions and a simple, user-friendly layout for easy navigation.
+# A clean and responsive sidebar menu built using HTML and CSS, featuring smooth transitions and a simple, user-friendly layout for easy navigation.
